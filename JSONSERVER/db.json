@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "冯维朗",
+      "phone": "13425625181",
+      "email": "weilangfeng@hotmail.com",
+      "education": "本科",
+      "graduationschool": "云南大学旅游文化学院",
+      "profession": "前端开发员",
+      "profile": "想要年薪过千万",
+      "id": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is good"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good"
+    }
+  ]
+}
